@@ -1,0 +1,15 @@
+date,event_type,pv,uv
+20190520,$pageview,14012,3880
+20190521,$pageview,13291,3732
+20190522,$pageview,11402,3227
+20190523,$pageview,13524,3768
+20190524,$pageview,11997,3419
+20190525,$pageview,8387,2493
+20190526,$pageview,9502,2744
+20190520,reg_input_success,114,108
+20190521,reg_input_success,106,100
+20190522,reg_input_success,91,91
+20190523,reg_input_success,90,94
+20190524,reg_input_success,79,79
+20190525,reg_input_success,35,34
+20190526,reg_input_success,37,34

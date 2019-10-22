@@ -1,0 +1,3 @@
+依赖的第三方库: numpy, pandas, sklearn, fbprophet, matplotlib...
+
+运行main_model.py(其他效果不好的尝试模型全都未放进压缩包)可以直接得到最终预测的 submission.csv 文件
